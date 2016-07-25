@@ -1,0 +1,184 @@
+Cracking the Coding Interview
+
+I.
+1. Determine if string has all unique characters
+2. Reverse a string
+3. Determine if a string is a permutation of another
+4. Replace all spaces in string with ‘%20
+5. Run length encoding
+6. Rotate a matrix
+7. Set all elements in row and column of a matrix to 0 if an element is zero
+8. Use isSubstring() to determine if a string is a rotation of another
+
+II.
+1. Remove duplicates in unsorted linked list
+2. Find kth to last element in singly linked list
+3. Delete node from middle of a singly linked list
+4. Partition a linked list around a value
+5. Sum of numbers represented as linked lists
+6. Return node at beginning of loop in a circular linked list
+7. Check if linked list is a palindrome
+
+III.
+1. Implement three stacks with a single array
+2. Min Stack / Max Stack
+3. Operations on Set of Stacks with thresholds
+4. Towers of Hanoi
+5. Implement queue with two stacks
+6. Sort a stack in order
+7. Enqueue and Dequeue Animals (Cat, Dog, Any)
+
+IV.
+1. Check if binary tree is balanced
+2. Check for route between two nodes in a directed graph
+3. Create binary search tree with minimal height from a sorted array
+4. Create linked lists of all nodes at each depth in a binary tree
+5. Check if a binary tree is a binary search tree
+6. Find next node (inorder successor) in a binary search tree with links to parents
+7. Lowest common ancestor, no additional structures
+8. Check if tree is a subtree of another in very large trees
+9. Find all paths in tree that sum to a value
+
+V.
+1. Insert M into N using i and j bit positions
+2. Binary representation of a double precision floating point number
+3. Give the next smallest and next largest number with the same cardinality in binary
+4. Explain ((n & (n­1)) == 0)
+5. Determine required number of bits to convert a number to another
+6. Pairwise bit­swapping
+7. Find missing integer in array using only "fetch jth bit of A[i]"
+8. drawHorizontalLine(byte[] screen, int width, int x1, int x2, int y), 8 pixels stored in a byte
+
+VI.
+1. Find the heavy bottle from 19 1g pill bottles and one 1.1g pill bottle using a scale once
+2. Can 31 dominoes cover 8x8 board with 2 missing diagonally opposite corners
+3. Come up with 4L using 5L and 3L jugs
+4. Number of days for blue­eyed persons to leave an island
+5. Egg dropping
+6. Which lockers are toggled after 100 passes on every ith toggling
+
+VII.
+1. Probability of making a particular shot given Game 1: 1 of 1 shots and Game 2: 1 of 3 shots
+2. Probability of collision of n ants in n­polygon with same speed
+3. Determine if two lines in Cartesian plane would intersect
+4. Implement integer multiply, subtract, and divide using add
+5. Find line to cut two squares in half
+6. Find line passing through most number of points in 2D graph
+7. Find kth number whose only prime factors are 3, 5, and 7
+
+VIII.
+1. Design data structures for a generic set of playing cards
+2. Implement dispatchCall() for a call center with respondents, managers, and directors
+3. Design a musical jukebox
+4. Design a parking lot
+5. Design an online book reader system
+6. Implement a jigsaw puzzle with boolean fitsWith(piece1, piece2)
+7. Design an in­memory file system
+8. Design a hash table with chaining for collisions
+
+IX.
+1. Count number of ways to go up a staircase using different number of steps
+2. Count possible ways to go to the opposite end in a grid, what if there are obstacles?
+3. Find i where i = A[i] in a sorted array where values are not distinct
+4. Powerset
+5. All permutations of a string
+6. Return all valid combinations of n­pairs of parentheses
+7. Implement paint­fill
+8. Number of ways to give change
+9. All ways to place n queens
+10. Build the tallest stack of boxes considering widths, depths, and heights with no rotations
+11. Ways to parenthesize expression with boolean result with given 0,1,|,^,&
+
+X.
+1. Design for end­of­day stock price information access
+2. Social network for Facebook or LinkedIn and show path between two people
+3. Find missing integer from four billion distinct integers
+4. Print all duplicates from array with values 1 to 32000 with 4MB memory
+5. Find duplicates in 10 billion urls
+6. Design caching for expensive processSearch() on 100 machines
+
+XI.
+1. Merge a sorted array into another sorted array with sufficient free space
+2. Sort array of string so anagrams are next to each other
+3. Search in a rotated sorted array
+4. Sort lines of a 20 GB file
+5. Search in a sorted sparse array
+6. Search in sorted matrix
+7. Find tallest tower of people using height and weight restrictions
+8. Rank of an element in a stream
+
+XII.
+1. Find mistake in given code: unsigned int i; for (i = 100; i >= 0; ­­i) printf("%d\n", i);
+2. What causes errors in a single threaded app that never crashes in the same place?
+3. How to test: boolean canMoveTo(int x, int y)
+4. How to load test a webpage without test tools?
+5. How would you test a pen?
+6. How to test an ATM in a distributed banking system?
+
+XIII.
+1. Print the last k lines of an input file
+2. Compare and contrast a hash table and map
+3. How do virtual functions work in C++?
+4. Explain deep copy and shallow copy
+5. What is the significance of the keyword "volatile" in C?
+6. Why does a destructor in a base class need to be declared virtual?
+7. Return the complete data structure given a single node as parameter
+8. Write a smart pointer class with automatic garbage collection
+9. Write aligned malloc and free for memory divisible by a given power of 2
+10. 2DArrayMalloc
+
+XIV.
+1. What is the effect of keeping a constructor private
+2. Does the finally block get executed when there is a return statement in the try block?
+3. Differentiate final, finally, and finalize.
+4. Differentiate C++ templates and Java generics
+5. Explain reflection
+6. Implement generic CircularArray with efficient rotation and has iterator
+
+XV.
+1. Get list of tenants renting more than one apartment
+2. Get list of buildings and number of open requests
+3. Close all request from all apartments in a particular building
+4. Explain different types of joins
+5. Explain denormalization
+6. ERD for DB with companies, people, and professionals
+7. DEsign DB and SQL to list top 10% of students sorted according to GPA
+
+XVI.
+1. Differentiate thread and process
+2. How to measure time spent in a context switch
+3. Implement dining philosophers which prevent deadlocks
+4. Design a class which only provides a lock if there is no possible deadlock
+5. Ensure that three methods are called in order when called by different threads
+6. Explain simultaneous execution of a synchronized and a normal method
+
+XVII.
+1. Swap numbers without a temporary variable
+2. Determine if someone has won in tic­tac­toe
+3. Compute the number of trailing zeroes in a factorial
+4. Find maximum of two numbers without comparison
+5. Game of Mastermind
+6. Find smallest sequence that will make the entire array sorted
+7. Integer to English
+8. Maximum subarray sum
+9. Find frequency of occurrence of words in a book
+10. Encoded XML
+11. Implement rand7() using rand5()
+12. 2SUM
+13. Convert binary tree to linked list
+14. Optimally unconcatenate words
+
+XVIII.
+1. Add two numbers without arithmetic operators
+2. Perfect shuffle
+3. Randomly generate a set of m integers from array of size n
+4. Count number of 2s in numbers from 0 to n
+5. Find shortest distance between two words in a file
+6. K selection from billions of numbers
+7. Find longest word made from other words in the list
+8. Substrings search
+9. Median of Stream
+10. Transform one word to another one letter at a time
+11. Maximum subsquare with black borders
+12. Maximum submatrix sum
+13. Largest rectangle of words, where rows and columns are words
