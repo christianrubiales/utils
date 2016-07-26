@@ -4,7 +4,7 @@ I.
 1. Determine if string has all unique characters
 2. Reverse a string
 3. Determine if a string is a permutation of another
-4. Replace all spaces in string with ‘%20
+4. Replace all spaces in string with "%20"
 5. Run length encoding
 6. Rotate a matrix
 7. Set all elements in row and column of a matrix to 0 if an element is zero
@@ -43,7 +43,7 @@ V.
 1. Insert M into N using i and j bit positions
 2. Binary representation of a double precision floating point number
 3. Give the next smallest and next largest number with the same cardinality in binary
-4. Explain ((n & (n­1)) == 0)
+4. Explain ((n & (n­-1)) == 0)
 5. Determine required number of bits to convert a number to another
 6. Pairwise bit­swapping
 7. Find missing integer in array using only "fetch jth bit of A[i]"
@@ -73,7 +73,7 @@ VIII.
 4. Design a parking lot
 5. Design an online book reader system
 6. Implement a jigsaw puzzle with boolean fitsWith(piece1, piece2)
-7. Design an in­memory file system
+7. Design an in-­memory file system
 8. Design a hash table with chaining for collisions
 
 IX.
@@ -108,7 +108,7 @@ XI.
 8. Rank of an element in a stream
 
 XII.
-1. Find mistake in given code: unsigned int i; for (i = 100; i >= 0; ­­i) printf("%d\n", i);
+1. Find mistake in given code: unsigned int i; for (i = 100; i >= 0; ­­i--) printf("%d\n", i);
 2. What causes errors in a single threaded app that never crashes in the same place?
 3. How to test: boolean canMoveTo(int x, int y)
 4. How to load test a webpage without test tools?
@@ -142,7 +142,7 @@ XV.
 4. Explain different types of joins
 5. Explain denormalization
 6. ERD for DB with companies, people, and professionals
-7. DEsign DB and SQL to list top 10% of students sorted according to GPA
+7. Design DB and SQL to list top 10% of students sorted according to GPA
 
 XVI.
 1. Differentiate thread and process
@@ -154,7 +154,7 @@ XVI.
 
 XVII.
 1. Swap numbers without a temporary variable
-2. Determine if someone has won in tic­tac­toe
+2. Determine if someone has won in tic­-tac-­toe
 3. Compute the number of trailing zeroes in a factorial
 4. Find maximum of two numbers without comparison
 5. Game of Mastermind
