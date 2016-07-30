@@ -13,9 +13,9 @@ import com.google.gson.GsonBuilder;
 import com.google.gson.JsonSyntaxException;
 
 /**
- * Returns the ranking of the given username in the given country 
+ * Returns the ranking of the given usernames in the given country 
  * for all applicable domains.
- * Limited to top 10 only.
+ * Limited to top 10 per domain only.
  */
 public class CountryRank {
 
