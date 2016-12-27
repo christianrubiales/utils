@@ -15,14 +15,14 @@ import com.google.gson.JsonSyntaxException;
 /**
  * Returns the ranking of the given usernames in the given country 
  * for all applicable domains.
- * Limited to top 10 per domain only.
+ * Limited to top 20 per domain only.
  */
 public class CountryRank {
 
 	private static final Gson gson = new GsonBuilder().create();
 	
 	private static final String PART1 = "https://www.hackerrank.com/rest/contests/master/tracks/";
-	private static final String PART2 = "/leaderboard/filter?offset=0&limit=10&country=";
+	private static final String PART2 = "/leaderboard/filter?offset=0&limit=20&country=";
 	private static final String PART3 = "&type=practice&level=1&version3=false";
 	
 	private static final String[] DOMAINS = new String[]{"algorithms","data-structures","mathematics","ai",
