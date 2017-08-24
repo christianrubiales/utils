@@ -114,7 +114,7 @@ VIII. Searching
 9. Find missing IP addresses
 10. Find duplicate and missing elements
 
-IX. 
+IX. Hash Tables
 1. 
 2. 
 3. 
@@ -126,7 +126,151 @@ IX.
 9. 
 10. 
 
-X. 
+X. Sorting
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+
+XI. Binary Search Trees
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+
+XII. Recursion
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+
+XIII. Dynamic Programming
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+
+XIV. Greedy Algorithms and Invariants
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+
+XV. Graphs
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+
+XVI. Parallel Computing
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+
+XVII. Design Problems
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+
+XVIII. Java Language Questions
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+
+XIX. Object-Oriented Design
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+
+XX. Common Tools
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+
+XXI. Honors Class - Moderate
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+
+XXII. Honors Class - Hard
 1. 
 2. 
 3. 
