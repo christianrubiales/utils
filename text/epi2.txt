@@ -1,0 +1,139 @@
+I. Primitive Types
+1. Compute word parity
+2. Swap bits
+3. Reverse bits
+4. Find closest integer with same weight
+5. X x Y without operators
+6. X / Y
+7. X^Y
+8. Reverse digits
+9. Is Number a Palindrome
+10. Generate uniform random numbers
+11. Rectangle intersection
+
+II. Arrays
+1. Dutch National Flag
+2. Increment very big integers
+3. Multiply very big integers
+4. Advancing through array
+5. Delete duplicates from sorted array
+6. Buy and sell stock once
+7. Buy and sell stock twice
+8. Enumerate all primes to n
+9. Permute elements of array
+10. Compute next permutation
+11. Sample offline data
+12. Sample online data
+13. Compute random permutation
+14. Compute random subset
+15. Generate nonuniform random numbers
+16. Sudoku checker
+17. Spiral ordering of 2D array
+18. Rotate 2D array
+19. Compute rows in Pascal's triangle
+
+III. Strings
+1. Interconvert strings and integers
+2. Base conversion
+3. Spreadsheet column encoding
+4. Replace and remove
+5. Check if palindrome
+6. Reverse words in sentence
+7. Compute mnemonics for a phone number
+8. Look-and-say problem
+9. Roman to decimal
+10. Compute all valid IP addresses
+11. Write string sinusoidally
+12. Run-length encoding
+13. Find occurrence of substring
+
+IV. Linked Lists
+1. Merge sorted lists
+2. Reverse sublist
+3. Test cyclicity
+4. Test for overlapping lists - lists are cycle-free
+5. Test for overlapping lists - lists may have cycles
+6. Delete node from singly-liked list
+7. Remove kth last element fro linked list
+8. Remove duplicates from sorted linked list
+9. Implement cyclic right shift for singly linked lists
+10. Even-odd merge
+11. Is singly-linked list palindromic
+12. List pivoting
+13. Add list-based integers
+
+V. Stacks and Queues
+1. Stack with Max
+2. Evaluate RPN expressions
+3. Test string over {}()[] for well-formedness
+4. Normalize pathnames
+5. Search postings list
+6. Compute buildings with sunset view
+7. Compute binary tree nodes in order of increasing depth
+8. Cicular queue
+9. Implement queue using stacks
+10. Queue with Max
+
+VI. Binary Trees
+1. Is binary tree height-balanced
+2. Is binary tree symmetric
+3. Lowest common ancestor in binary tree
+4. LCA when nodes have parent pointers
+5. Sum the root-to-leaf paths in binary tree
+6. Find root-to-leaf path with specified sum
+7. Iterative Inorder traversal
+8. Iterative Preorder traversal
+9. Kth node in inorder traversal
+10. Compute successor
+11. Inorder traversal with O(1) space
+12. Reconstruct binary tree from traversal data
+13. Reconstruct binary tree from preorder traversal with markers
+14. Form linked list from leaves of binary tree
+15. Exterior of binary tree
+16. Right sibling tree
+17. Implement lockin in binary tree
+
+VII. Heaps
+1. Merge sorted files
+2. Sort an increasing-decreasing array
+3. Sort almost-sorted array
+4. k-closest stars
+5. Median of online data
+6. k largest elements in max-heap
+7. Implement stack using a heap
+
+VIII. Searching
+1. Search sorted array for first occurence of k
+2. Search sorted array for entry equal to its index
+3. Search cyclically sorted array
+4. Compute integer square root
+5. Compute real square root
+6. Search in 2D sorted array
+7. Find min and max simultaneously
+8. kth largest element
+9. Find missing IP addresses
+10. Find duplicate and missing elements
+
+IX. 
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+
+X. 
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
