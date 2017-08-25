@@ -292,12 +292,18 @@ XXI. Honors Class - Moderate
 18. Convert BST to sorted doubly-linked list
 19. View from above
 20. Implement Regex matching
-21. 
-22. 
-23. 
-24. 
-25. 
-26. 
+21. Synthesize an expression
+22. Count inversions
+23. Draw the skyline
+24. Measure with defective jugs
+25. Maximum subarray in circular array
+26. Critical height
+27. Huffman coding
+28. Trapping water
+29. Search pair-sum in abs-sorted array
+30. Heavy hitter
+31. Road network
+32. Is arbitrage possible?
 
 XXII. Honors Class - Hard
 1. Buy and sell stock k times
@@ -306,7 +312,5 @@ XXII. Honors Class - Hard
 4. Find element that appears only once
 5. Convert sorted doubly-linked list into BST
 6. Merge two BSTs
-7. 
-8. 
-9. 
-10. 
+7. Maximum 2D subarray
+8. Longest subarray with sum <= k
