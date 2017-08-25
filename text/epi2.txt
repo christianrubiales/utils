@@ -217,40 +217,45 @@ XVI. Parallel Computing
 9. Parallel Collatz conjecture
 
 XVII. Design Problems
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
+1. Spell checker
+2. Solution to stemming problem
+3. Plagiarism detector
+4. Pair users by attributes
+5. System for detecting copyright infringement
+6. TEX
+7. Search engine
+8. PageRank
+9. TeraSort and PetaSort
+10. Distributed throttling
+11. Scalable priority system
+12. Photomosaics
+13. Mileage Run
+14. Connexus
+15. Online Advertising system
+16. Recommendation system
+17. Distributing large file
+18. Design the World Wide Web
+19. Hardware cost of photo sharing app
 
 XVIII. Java Language Questions
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
+1. The JVM
+2. throw vs. throws
+3. final, finally, and finalizer
+4. equals() vs. ==
+5. equals() and hashCode()
+6. List, ArrayList, and LinkedList
+7. String vs. StringBuilder
+8. Autoboxing
+9. Static initialization
 
 XIX. Object-Oriented Design
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
+1. Template Method vs. Strategy
+2. Observer Pattern
+3. Push vs. Pull Observer Pattern
+4. Singletons and Flyweights
+5. Adapters
+6. Creational Patterns
+7. Libraries and Design Patterns
 
 XX. Common Tools
 1. 
