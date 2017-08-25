@@ -171,52 +171,50 @@ XII. Recursion
 11. Diameter of a Tree
 
 XIII. Dynamic Programming
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
+1. Number of Score Combinations
+2. Levenshtein distance
+3. Ways to Traverse 2D array
+4. Binomial Coefficients
+5. Search for a sequence in a 2D array
+6. Knapsack Problem
+7. bedbathandbeyond.com problem
+8. Minimum weight path in triangle
+9. Pick up coins for maximum gain
+10. Number of moves to climb stairs
+11. Pretty Printing problem
+12. Longest Nondecreasing subsequence
 
 XIV. Greedy Algorithms and Invariants
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
+1. Optimum assignment of tasks
+2. Scehdule to minimize waiting time
+3. Interval covering problem
+4. 3SUM
+5. Majority Element
+6. Gasup
+7. Maximum water trapped by vertical line pair
+8. Largest rectangle under the skyline
 
 XV. Graphs
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
+1. Search a maze
+2. Paint Boolean Matrix
+3. Compute Enclosed Regions
+4. Deadlock detection
+5. Clone a graph
+6. Making wired connections
+7. Transform one string to another
+8. Team photo day - 2
+9. Shortest distance with fewest edges
 
 XVI. Parallel Computing
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
+1. Caching for multithreaded dictionary
+2. Analyze two unsynchronized interleaved threads
+3. Synchronize two interleaving threads
+4. Implement thread pool
+5. Deadlock
+6. Readers-Writers problem
+7. Readers-Writers problem with write preference
+8. Implement Timer class
+9. Parallel Collatz conjecture
 
 XVII. Design Problems
 1. 
