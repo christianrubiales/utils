@@ -115,52 +115,60 @@ VIII. Searching
 10. Find duplicate and missing elements
 
 IX. Hash Tables
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
+1. Test palindromic permutations
+2. Is anonymous letter constructible
+3. Implement ISBN cache
+4. Compute LCA, optimizing for close ancestors
+5. k most frequent queries
+6. Find nearest repeated entries in array
+7. Find smallest subarray covering all values
+8. Find smallest subarray sequentially covering all values
+9. Find longest subarray with distinct entries
+10. Length of longest contained interval
+11. Average of top three scores
+12. All string decompositions
+13. Collatz conjecture
+14. Hash function for chess
 
 X. Sorting
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
+1. Intersection of two sorted arrays
+2. Merge two sorted arrays
+3. Remove first-name duplicates
+4. Render calendar
+5. Merging intervals
+6. Compute union of intervals
+7. Partitioning and sorting array with many repeated entries
+8. Team photo day - 1
+9. Fast sorting algorithm for lists
+10. Salary treshold
 
 XI. Binary Search Trees
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
+1. Is binary tree BST
+2. Find first key greater than given value in BST
+3. k largest in BST
+4. LCA in BST
+5. Reconstruct BST from traversal data
+6. Closest entries in three sorted arrays
+7. Enumerate numbers of the form a + b√2
+8. Most visited pages
+9. Minimum height BST from sorted array
+10. Insetion and Deletion in BST
+11. Are three BST nodes totally ordered
+12. Range lookup
+13. Add credits
 
 XII. Recursion
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
+1. Towers of Hanoi
+2. All non-attacking placements of n-Queens
+3. Generate Permutations
+4. Generate Power Set
+5. Generate All Subsets of size k
+6. Generate Strings of matched parens
+7. Generate Palindromic Decompositions
+8. Generate Binary Trees
+9. Sudoku solver
+10. Gray code
+11. Diameter of a Tree
 
 XIII. Dynamic Programming
 1. 
