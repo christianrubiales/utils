@@ -258,36 +258,54 @@ XIX. Object-Oriented Design
 7. Libraries and Design Patterns
 
 XX. Common Tools
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
+1. Merging in VCS
+2. Hooks
+3. Is scripting more efficient?
+4. Polymorphism with a scripting language
+5. Dependency analysis
+6. ANT vs. Maven
+7. SQL vs. NoSQL
+8. Normalization
+9. SQL Design
+10. IP, TCP, and HTTP
+11. HTTPS
+12. DNS
 
 XXI. Honors Class - Moderate
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
+1. GCD
+2. Find first misiing positive entry
+3. Max product of all entries except one
+4. Longest contiguous increasing subarray
+5. Rotate an array
+6. Identify positions attacked by rooks
+7. Justify text
+8. Implement list zipping
+9. Copy a postings list
+10. Longest substring with matching parens
+11. Maximum of sliding window
+12. Postorder traversal without recursion
+13. Fair bonuses
+14. Search sorted array of unknown length
+15. Find line through most points
+16. Shortest unique prefix
+17. Most visited pages in a window
+18. Convert BST to sorted doubly-linked list
+19. View from above
+20. Implement Regex matching
+21. 
+22. 
+23. 
+24. 
+25. 
+26. 
 
 XXII. Honors Class - Hard
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
+1. Buy and sell stock k times
+2. Search in two sorted arrays
+3. kth largest element - large n, small k
+4. Find element that appears only once
+5. Convert sorted doubly-linked list into BST
+6. Merge two BSTs
 7. 
 8. 
 9. 
