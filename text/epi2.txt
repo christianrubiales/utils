@@ -186,7 +186,7 @@ XIII. Dynamic Programming
 
 XIV. Greedy Algorithms and Invariants
 1. Optimum assignment of tasks
-2. Scehdule to minimize waiting time
+2. Schedule to minimize waiting time
 3. Interval covering problem
 4. 3SUM
 5. Majority Element
@@ -273,7 +273,7 @@ XX. Common Tools
 
 XXI. Honors Class - Moderate
 1. GCD
-2. Find first misiing positive entry
+2. Find first missing positive entry
 3. Max product of all entries except one
 4. Longest contiguous increasing subarray
 5. Rotate an array
