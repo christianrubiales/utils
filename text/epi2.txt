@@ -14,7 +14,7 @@ I. Primitive Types
 II. Arrays
 1. Dutch National Flag
 2. Increment very big integers
-3. Multiply very big integers
+3. Multiply very big integers*
 4. Advancing through array*
 5. Delete duplicates from sorted array
 6. Buy and sell stock once
