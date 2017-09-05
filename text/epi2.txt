@@ -1,10 +1,10 @@
 I. Primitive Types
 1. Compute word parity
 2. Swap bits
-3. Reverse bits
+3. Reverse bits*
 4. Find closest integer with same weight
-5. X x Y without operators
-6. X / Y
+5. X x Y without operators*
+6. X / Y *
 7. X^Y
 8. Reverse digits
 9. Is Number a Palindrome
@@ -15,10 +15,10 @@ II. Arrays
 1. Dutch National Flag
 2. Increment very big integers
 3. Multiply very big integers
-4. Advancing through array
+4. Advancing through array*
 5. Delete duplicates from sorted array
 6. Buy and sell stock once
-7. Buy and sell stock twice
+7. Buy and sell stock twice*
 8. Enumerate all primes to n
 9. Permute elements of array
 10. Compute next permutation
