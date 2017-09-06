@@ -1,4 +1,4 @@
-I. Primitive Types
+I. Primitive Types, Bit Manipulation
 1. Compute word parity
 2. Swap bits
 3. Reverse bits*
@@ -11,7 +11,7 @@ I. Primitive Types
 10. Generate uniform random numbers
 11. Rectangle intersection
 
-II. Arrays
+II. Arrays, Resizable Arrays, Multidimensional Arrays
 1. Dutch National Flag
 2. Increment very big integers
 3. Multiply very big integers*
