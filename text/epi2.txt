@@ -28,8 +28,8 @@ II. Arrays, Resizable Arrays, Multidimensional Arrays
 14. Compute random subset*
 15. Generate nonuniform random numbers
 16. Sudoku checker
-17. Spiral ordering of 2D array
-18. Rotate 2D array
+17. Spiral ordering of 2D array*
+18. Rotate 2D array*
 19. Compute rows in Pascal's triangle
 
 III. Strings
