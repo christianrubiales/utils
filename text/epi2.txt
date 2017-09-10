@@ -7,8 +7,8 @@ I. Primitive Types, Bit Manipulation
 6. X / Y *
 7. X^Y
 8. Reverse digits
-9. Is Number a Palindrome
-10. Generate uniform random numbers
+9. Is Number a Palindrome*
+10. Generate uniform random numbers using coin
 11. Rectangle intersection
 
 II. Arrays, Resizable Arrays, Multidimensional Arrays
