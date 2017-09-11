@@ -1,7 +1,7 @@
 I. Primitive Types, Bit Manipulation
 1. Compute word parity
 2. Swap bits
-3. Reverse bits*
+3. Reverse bits**
 4. Find closest integer with same weight
 5. X x Y without operators*
 6. X / Y *
