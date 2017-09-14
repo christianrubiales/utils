@@ -3,7 +3,7 @@ I. Primitive Types, Bit Manipulation
 2. Swap bits
 3. Reverse bits**
 4. Find closest integer with same weight
-5. X x Y without operators
+5. X x Y without arithmetic operators
 6. X / Y *
 7. X^Y
 8. Reverse digits
