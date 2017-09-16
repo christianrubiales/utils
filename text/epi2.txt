@@ -12,7 +12,7 @@ I. Primitive Types, Bit Manipulation
 11. Rectangle intersection
 
 II. Arrays, Resizable Arrays, Multidimensional Arrays
-1. Dutch National Flag*
+1. Dutch National Flag
 2. Increment very big integers
 3. Multiply very big integers*
 4. Advancing through array*
