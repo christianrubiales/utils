@@ -21,7 +21,7 @@ II. Arrays, Resizable Arrays, Multidimensional Arrays
 7. Buy and sell stock twice
 8. Enumerate all primes to n
 9. Permute elements of array
-10. Compute next permutation*
+10. Compute next permutation
 11. Sample offline data
 12. Sample online data
 13. Compute random permutation
