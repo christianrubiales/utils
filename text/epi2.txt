@@ -54,7 +54,7 @@ IV. Linked Lists
 4. Test for overlapping lists - lists are cycle-free
 5. Test for overlapping lists - lists may have cycles
 6. Delete node from singly-liked list
-7. Remove kth last element fro linked list
+7. Remove kth last element from linked list
 8. Remove duplicates from sorted linked list
 9. Implement cyclic right shift for singly linked lists
 10. Even-odd merge
