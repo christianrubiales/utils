@@ -15,7 +15,7 @@ II. Arrays, Resizable Arrays, Multidimensional Arrays
 1. Dutch National Flag
 2. Increment arbitrary precision integers
 3. Multiply arbitrary precision integers
-4. Advancing through array**
+4. Advancing through array
 5. Delete duplicates from sorted array
 6. Buy and sell stock once
 7. Buy and sell stock twice
