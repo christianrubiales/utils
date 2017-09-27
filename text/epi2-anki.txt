@@ -44,51 +44,58 @@ Primitive Types
 
 Arrays, Resizable Arrays, Multidimensional Arrays
 
-Dutch National Flag Problem
-Even Odd Partitioning
-Odd Even Partitioning
-True False Partitioning
-False True Partitioning
-Negative Positive Partitioning*
-Positive Negative Partitioning*
-Delete Duplicates From Sorted Array
-Remove Element Instances From Array
+1. Dutch National Flag Problem
+2. Even Odd Partitioning
+3. Odd Even Partitioning
+4. True False Partitioning
+5. False True Partitioning
+6. Negative Positive Partitioning*
+7. Positive Negative Partitioning*
+8. Delete Duplicates From Sorted Array
+9. Remove Element Instances From Array
 
-Add Binary Integers As List
-Increment Integer As List
-Decrement Integer As List
-Add Arbitrary Precision Integers*
-Multiply Arbitrary Precision Integers
+1. Add Binary Integers As List
+2. Increment Integer As List
+3. Decrement Integer As List
+4. Add Arbitrary Precision Integers*
+5. Multiply Arbitrary Precision Integers
 
-Apply Permutation
-Next Permutation
-Previous Permutation
-Kth Permutation*
-Heaps Permutation Recursive
-Heaps Permutation Iterative
+1. Apply Permutation
+2. Next Permutation
+3. Previous Permutation
+4. Kth Permutation*
+5. Heaps Permutation Recursive
+6. Heaps Permutation Iterative
 
-Fisher Yates
-Random Permutation To Apply
-Random Subset
-Nonuniform Random Number
-Sample Offline Data
-Sample Offline Data And Update Input
-Sample Online Data
+1. Fisher Yates
+2. Random Permutation To Apply
+3. Random Subset
+4. Nonuniform Random Number
+5. Sample Offline Data
+6. Sample Offline Data And Update Input
+7. Sample Online Data
 
-Longest Homogenous Subarray
-Advancing Through Array
-Generate Primes
-Buy And Sell Stock Once
-Buy And Sell Stock Twice
-Buy And Sell Stock Any Number Of Times
+1. Longest Homogenous Subarray
+2. Advancing Through Array
+3. Generate Primes
+4. Buy And Sell Stock Once
+5. Buy And Sell Stock Twice
+6. Buy And Sell Stock Any Number Of Times
 
-Sudoku Checker
-Pascal's Triangle
-Pascal's Triangle Last Row
+1. Sudoku Checker
+2. Pascal's Triangle
+3. Pascal's Triangle Last Row
 
-Generate Spiral Ordering of Matrix*
-Generate NxN Spiral Matrix*
-Generate NxM Spiral Matrix*
-Generate the NxN Matrix From the Spiral Ordering*
-Last Element in Spiral Ordering of Matrix*
-Kth Element in Spiral Ordering of Matrix*
+1. Generate Spiral Ordering of Matrix*
+2. Generate NxN Spiral Matrix*
+3. Generate NxM Spiral Matrix*
+4. Generate the NxN Matrix From the Spiral Ordering*
+5. Last Element in Spiral Ordering of Matrix*
+6. Kth Element in Spiral Ordering of Matrix*
+
+1. Rotate Matrix Clockwise*
+2. Rotate Matrix Counterclockwise*
+3. Reflect Matrix Horizontally*
+4. Reflect Matrix Vertically*
+5. Reflect Matrix Along Top-Left Diagonal*
+6. Reflect Matrix Along Top-Right Diagonal*
