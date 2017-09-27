@@ -49,8 +49,8 @@ Even Odd Partitioning
 Odd Even Partitioning
 True False Partitioning
 False True Partitioning
-Negative Positive Partitioning
-Positive Negative Partitioning
+Negative Positive Partitioning*
+Positive Negative Partitioning*
 Delete Duplicates From Sorted Array
 Remove Element Instances From Array
 
@@ -64,9 +64,9 @@ Next Permutation
 Previous Permutation
 Heaps Permutation Recursive
 Heaps Permutation Iterative
-Random Permutation To Apply
 
 Fisher Yates
+Random Permutation To Apply
 Random Subset
 Nonuniform Random Number
 Sample Offline Data
