@@ -57,11 +57,13 @@ Remove Element Instances From Array
 Add Binary Integers As List
 Increment Integer As List
 Decrement Integer As List
+Add Arbitrary Precision Integers*
 Multiply Arbitrary Precision Integers
 
 Apply Permutation
 Next Permutation
 Previous Permutation
+Kth Permutation*
 Heaps Permutation Recursive
 Heaps Permutation Iterative
 
@@ -81,3 +83,12 @@ Buy And Sell Stock Twice
 Buy And Sell Stock Any Number Of Times
 
 Sudoku Checker
+Pascal's Triangle
+Pascal's Triangle Last Row
+
+Generate Spiral Ordering of Matrix*
+Generate NxN Spiral Matrix*
+Generate NxM Spiral Matrix*
+Generate the NxN Matrix From the Spiral Ordering*
+Last Element in Spiral Ordering of Matrix*
+Kth Element in Spiral Ordering of Matrix*
