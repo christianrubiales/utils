@@ -152,7 +152,7 @@ XI. Binary Search Trees
 7. Enumerate numbers of the form a + b√2
 8. Most visited pages
 9. Minimum height BST from sorted array
-10. Insetion and Deletion in BST
+10. Insertion and Deletion in BST
 11. Are three BST nodes totally ordered
 12. Range lookup
 13. Add credits
