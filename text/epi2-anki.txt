@@ -1,0 +1,82 @@
+Bonus
+
+1. Smallest Impossible Coin Change
+2. Sort Alternating by Even Odd Swapping
+3. Sort Alternating by Sorting Then Swapping
+4. Two Sum By Sorting
+
+
+Primitive Types
+
+1. Ones' Complement
+2. Two's Complement
+3. Test Bit
+4. Set Bit
+5. Toggle or Flip Bit
+6. Clear Bit
+7. Clear Lowest Set Bit
+8. Extract Lowest Set Bit
+9. Extract Lowest Unset Bit
+
+1. Count Bits
+2. Parity of a word
+3. Swap Bits
+4. Closest Integer With Same Weight
+5. Reverse Bits
+6. Reverse Digits
+7. Is Integer A Palindrome
+8. Is Integer A Palindrome By Reversing
+
+1. Add Using Increment And Decrement
+2. Add Without Arithmetic Operators
+3. Add Without Arithmetic Operators Recursive
+4. Multiply Without Arithmetic Operators
+5. Exponentiation
+6. Division By Repeated Subtraction
+7. Division Without Division, Multiplication, and Mod Operators
+8. Division Without Division, Multiplication, and Mod Operators - Pseudocode
+
+1. Random Number Using Coin
+2. Rectangle Intersection
+3. Determine if four Points form a Rectangle - Sides Parallel to x & y axes
+4. Determine if four Points form a Rectangle - Sides Not Parallel to x & y axes
+
+
+Arrays, Resizable Arrays, Multidimensional Arrays
+
+Dutch National Flag Problem
+Even Odd Partitioning
+Odd Even Partitioning
+True False Partitioning
+False True Partitioning
+Delete Duplicates From Sorted Array
+Remove Element Instances From Array
+
+Add Binary Integers As List
+Increment Integer As List
+Decrement Integer As List
+Multiply Arbitrary Precision Integers
+
+Apply Permutation
+Next Permutation
+Previous Permutation
+Heaps Permutation Recursive
+Heaps Permutation Iterative
+Random Permutation To Apply
+
+Fisher Yates
+Random Subset
+Nonuniform Random Number
+Sample Offline Data
+Sample Offline Data And Update Input
+Sample Online Data
+
+Longest Homogenous Subarray
+Advancing Through Array
+
+Generate Primes
+Buy And Sell Stock Once
+Buy And Sell Stock Twice
+Buy And Sell Stock Any Number Of Times
+
+Sudoku Checker
