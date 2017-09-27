@@ -49,6 +49,8 @@ Even Odd Partitioning
 Odd Even Partitioning
 True False Partitioning
 False True Partitioning
+Negative Positive Partitioning
+Positive Negative Partitioning
 Delete Duplicates From Sorted Array
 Remove Element Instances From Array
 
@@ -73,7 +75,6 @@ Sample Online Data
 
 Longest Homogenous Subarray
 Advancing Through Array
-
 Generate Primes
 Buy And Sell Stock Once
 Buy And Sell Stock Twice
