@@ -49,8 +49,8 @@ Arrays, Resizable Arrays, Multidimensional Arrays
 3. Odd Even Partitioning
 4. True False Partitioning
 5. False True Partitioning
-6. Negative Positive Partitioning*
-7. Positive Negative Partitioning*
+6. Negative Positive Partitioning**
+7. Positive Negative Partitioning**
 8. Delete Duplicates From Sorted Array
 9. Remove Element Instances From Array
 
