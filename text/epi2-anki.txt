@@ -58,7 +58,8 @@ Arrays, Resizable Arrays, Multidimensional Arrays
 2. Increment Integer As List
 3. Decrement Integer As List
 4. Add Arbitrary Precision Integers
-5. Multiply Arbitrary Precision Integers
+5. Subtract Arbitrary Precision Integers
+6. Multiply Arbitrary Precision Integers
 
 1. Apply Permutation
 2. Next Permutation
