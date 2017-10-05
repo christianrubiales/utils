@@ -55,16 +55,17 @@ Arrays, Resizable Arrays, Multidimensional Arrays
 9. Remove Element Instances From Array
 
 1. Add Binary Integers As List
-2. Increment Integer As List
-3. Decrement Integer As List
-4. Add Arbitrary Precision Integers
-5. Subtract Arbitrary Precision Integers
-6. Multiply Arbitrary Precision Integers
+2. Subtract Binary Integers As List*
+3. Increment Integer As List
+4. Decrement Integer As List**
+5. Add Arbitrary Precision Integers
+6. Subtract Arbitrary Precision Integers**
+7. Multiply Arbitrary Precision Integers
 
 1. Apply Permutation
 2. Next Permutation
 3. Previous Permutation
-4. Kth Permutation*
+4. Kth Permutation**
 5. Heaps Permutation Recursive
 6. Heaps Permutation Iterative
 
@@ -87,12 +88,15 @@ Arrays, Resizable Arrays, Multidimensional Arrays
 2. Pascal's Triangle
 3. Pascal's Triangle Last Row
 
-1. Generate Spiral Ordering of Matrix*
-2. Generate NxN Spiral Matrix*
-3. Generate NxM Spiral Matrix*
-4. Generate the NxN Matrix From the Spiral Ordering*
-5. Last Element in Spiral Ordering of Matrix*
-6. Kth Element in Spiral Ordering of Matrix*
+1. Generate Spiral Ordering of Matrix**
+2. Generate NxN Spiral Matrix**
+3. Generate NxM Spiral Matrix**
+4. Generate the NxN Matrix From the Spiral Ordering**
+5. Generate the NxM Matrix From the Spiral Ordering**
+6. Last Element in Spiral Ordering of NxN Matrix*
+7. Last Element in Spiral Ordering of NxM Matrix*
+8. Kth Element in Spiral Ordering of NxN Matrix*
+9. Kth Element in Spiral Ordering of NxM Matrix*
 
 1. Rotate Matrix Clockwise*
 2. Rotate Matrix Counterclockwise*
