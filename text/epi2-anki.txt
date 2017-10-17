@@ -100,9 +100,9 @@ Arrays, Resizable Arrays, Multidimensional Arrays
 10. Generate Anti-diagonals given a Matrix**
 11. Generate Anti-diagonals given N**
 
-1. Rotate Matrix Clockwise*
+1. Rotate Matrix Clockwise**
 2. Rotate Matrix Counterclockwise*
-3. Reflect Matrix Horizontally*
-4. Reflect Matrix Vertically*
-5. Reflect Matrix Along Top-Left Diagonal*
-6. Reflect Matrix Along Top-Right Diagonal*
+3. Flip Matrix Horizontally**
+4. Flip Matrix Vertically**
+5. Flip Matrix Diagonally**
+6. Flip Matrix Anti-diagonally**
