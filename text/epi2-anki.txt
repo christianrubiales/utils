@@ -101,7 +101,7 @@ Arrays, Resizable Arrays, Multidimensional Arrays
 11. Generate Anti-diagonals given N**
 
 1. Rotate Square Matrix Clockwise*
-2. Rotate Square Matrix Counterclockwise*
+2. Rotate Square Matrix Counterclockwise**
 3. Rotate Non-Square Matrix Clockwise*
 4. Rotate Non-Square Matrix Counterclockwise*
 5. Flip Matrix Horizontally*
