@@ -55,7 +55,7 @@ Arrays, Resizable Arrays, Multidimensional Arrays
 9. Remove Element Instances From Array
 
 1. Add Binary Integers As List
-2. Subtract Binary Integers As List*
+2. Subtract Binary Integers As List**
 3. Increment Integer As List
 4. Decrement Integer As List*
 5. Add Arbitrary Precision Integers
