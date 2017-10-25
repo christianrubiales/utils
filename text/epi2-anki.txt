@@ -97,6 +97,8 @@ Arrays, Resizable Arrays, Multidimensional Arrays
 7. Last Element in Spiral Ordering of NxM Matrix*
 8. Kth Element in Spiral Ordering of NxN Matrix*
 9. Kth Element in Spiral Ordering of NxM Matrix*
+10. Generate Diagonals given a Matrix*
+11. Generate Diagonals given N*
 10. Generate Anti-diagonals given a Matrix**
 11. Generate Anti-diagonals given N**
 
