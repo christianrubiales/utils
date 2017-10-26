@@ -121,3 +121,9 @@ Strings
 3. Convert Other Base to Decimal
 4. Convert Decimal to Other Base
 5. Base Conversion
+
+
+Linked Lists
+
+1. Check for Cycles
+2. Get Cycle Length
