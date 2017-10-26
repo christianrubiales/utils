@@ -112,3 +112,12 @@ Arrays, Resizable Arrays, Multidimensional Arrays
 8. Flip Square Matrix Anti-diagonally**
 9. Flip Non-Square Matrix Diagonally / Transpose Non-Square Matrix**
 10. Flip Non-Square Matrix Anti-diagonally**
+
+
+Strings
+
+1. String to Integer**
+2. Integer to String**
+3. Convert Other Base to Decimal
+4. Convert Decimal to Other Base
+5. Base Conversion
