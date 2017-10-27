@@ -126,5 +126,5 @@ Strings
 Linked Lists
 
 1. Check for Cycles**
-2. Get Cycle Length
-3. Check for Start of Cycle
+2. Get Cycle Length**
+3. Check for Start of Cycle**
