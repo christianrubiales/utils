@@ -116,11 +116,14 @@ Arrays, Resizable Arrays, Multidimensional Arrays
 
 Strings
 
-1. String to Integer**
-2. Integer to String**
-3. Convert Other Base to Decimal / String To Int**
-4. Convert Decimal to Other Base / Int To String**
-5. Base Conversion**
+1. String to Integer
+2. Integer to String
+3. Convert Other Base to Decimal (String To Int)
+4. Convert Decimal to Other Base (Int To String)
+5. Base Conversion
+6. Check If Palindrome
+7. Decode Spreadsheet Column
+8. Encode To Spreadsheet Column
 
 
 Linked Lists
