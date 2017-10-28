@@ -1,16 +1,103 @@
 I. Time Complexity
+
 II. Arrays
+
+a. Array Math
+
+1. Min Steps in Infinite Grid
+2. Add One To Number
+3. Max Sum Contiguous Subarray
+4. Maximum Absolute Difference
+5. Repeat and Missing Number Array
+6. Flip
+
+
+b. Simulation Array
+
+1. Max Non Negative SubArray
+2. Spiral Order Matrix II
+3. Pascal Triangle
+4. Kth Row of Pascal's Triangle
+5. Antidiagonals
+
+
+c. Bucketing
+
+1. Noble Integer
+2. Triplets with Sum between given range
+3. Largest Number
+4. Wave Array
+5. Hotel Bookings Possible
+6. Max Distance
+7. Maximum Unsorted Subarray
+8. Find Duplicate in Array
+9. Maximum Consecutive Gap
+
+
+d. Arrangement
+
+1. Largest Number
+2. Rotate Matrix
+3. Next Permutation
+4. Find Permutation
+
+
+e. Value Ranges
+
+1. Merge Intervals
+2. Merge Overlapping Intervals
+
+
+f. Bucketing or Sorting
+
+1. Hotel Bookings Possible
+2. Wave Array
+3. Largest Number
+4. Max Distance
+5. Maximum Unsorted Subarray
+6. Find Duplicate in Array
+7. Maximum Consecutive Gap
+
+
+g. Space Recycle
+
+1. Set Matrix Zeros
+2. First Missing Integer
+
+
+h. Missing / Repeated Number
+
+1. First Missing Integer
+2. Repeat and Missing Number Array
+3. Find Duplicate in Array
+4. N/3 Repeat Number
+
+
 II. Math
+
+
 IV. Binary Search
+
 V. Strings
+
 VI. Bit Manipulation
+
 VII. Two Pointers
+
 VIII. Linked Lists
+
 IX. Stacks and Queues
+
 X. Backtracking
+
 XI. Hashing
+
 XII. Heaps and Maps
+
 XIII. Trees
+
 XIV. Dynamic Programming
+
 XV. Greedy
+
 XVI. Graphs
