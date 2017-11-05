@@ -83,6 +83,26 @@ a. Adhoc
 4. Power Of Two Integers
 
 
+b. Array dp
+
+1. Numbers of length N and value less than K
+
+
+c. Number encoding
+
+1. Rearrange Array
+
+
+d. Combinatorics
+
+1. Grid Unique Paths
+
+
+e. Base conversion
+
+1. Excel Column Number
+2. Excel Column Title
+
 
 IV. Binary Search
 
