@@ -318,6 +318,37 @@ f. List cycle
 
 IX. Stacks and Queues
 
+
+Examples
+
+1. Generate all Parentheses
+2. Reverse String
+
+
+a. Stack simple
+
+1. Simplify Directory Path
+2. Redundant Braces
+
+
+b. Cleverstack
+
+1. Nearest Smaller Element
+2. Largest Rectangle in Histogram
+3. Sliding Window Maximum
+
+
+c. Stack math
+
+1. Evaluate Expression
+2. Rain Water Trapped
+
+
+d. Multiple stack
+
+1. Min Stack
+
+
 X. Backtracking
 
 XI. Hashing
