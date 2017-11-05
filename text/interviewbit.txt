@@ -104,6 +104,21 @@ e. Base conversion
 2. Excel Column Title
 
 
+f. Digit op
+
+1. Palindrome Integer
+2. Reverse integer
+
+
+g. Number theory
+
+1. Greatest Common Divisor
+2. Trailing Zeros in Factorial
+3. Sorted Permutation Rank
+4. Largest Coprime Divisor
+5. Sorted Permutation Rank with Repeats
+
+
 IV. Binary Search
 
 V. Strings
