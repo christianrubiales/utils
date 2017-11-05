@@ -229,6 +229,40 @@ c. Bit array
 
 VII. Two Pointers
 
+a. Two pointer
+
+1. Minimize the absolute difference
+
+
+b. Sorting
+
+1. 3 Sum
+2. 3 Sum Zero
+3. Counting Triangles
+4. Diffk
+
+
+c. Multiple arrays
+
+1. Intersection Of Sorted Arrays
+2. Merge Two Sorted Lists II
+
+
+d. Inplace update
+
+1. Remove Duplicates from Sorted Array
+2. Remove Duplicates from Sorted Array II
+3. Remove Element from Array
+4. Sort by Color
+
+
+e. Tricks
+
+1. Max Continuous Series of 1s
+2. Array 3 Pointers
+3. Container With Most Water
+
+
 VIII. Linked Lists
 
 IX. Stacks and Queues
