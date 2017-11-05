@@ -208,6 +208,25 @@ g. Pretty print
 
 VI. Bit Manipulation
 
+a. Bucketing
+
+1. Min XOR value
+
+
+b. Bit play
+
+1. Number of 1 Bits
+2. Reverse Bits
+3. Divide Integers
+4. Different Bits Sum Pairwise
+
+
+c. Bit array
+
+1. Single Number
+2. Single Number II
+
+
 VII. Two Pointers
 
 VIII. Linked Lists
