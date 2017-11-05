@@ -155,6 +155,57 @@ d. Sort modification
 
 V. Strings
 
+
+a. String simulation
+
+1. Palindrome String
+2. Longest Common Prefix
+3. Count And Say
+
+
+b. String tricks
+
+1. Minimum Characters required to make a String Palindromic
+2. Longest Palindromic Substring
+
+
+c. String search
+
+1. Minimum Characters required to make a String Palindromic
+2. Implement StrStr
+
+
+d. String parsing
+
+1. Minimum Characters required to make a String Palindromic
+2. Compare Version Numbers
+3. Atoi
+4. Valid Number
+5. Valid Ip Addresses
+
+
+e. Words
+
+1. Length of Last Word
+2. Reverse the String
+
+
+f. String math
+
+1. Roman To Integer
+2. Integer To Roman
+3. Add Binary Strings
+4. Power of 2
+5. Multiply Strings
+
+
+g. Pretty print
+
+1. Justified Text
+2. Zigzag String
+3. Pretty Json
+
+
 VI. Bit Manipulation
 
 VII. Two Pointers
