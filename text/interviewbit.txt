@@ -121,6 +121,38 @@ g. Number theory
 
 IV. Binary Search
 
+Examples
+
+1. Count Element Occurence
+2. Rotated Array
+
+
+a. Search answer
+
+1. Matrix Median
+2. Square Root of Integer
+3. Painter's Partition Problem
+4. Allocate Books
+
+
+b. Simple binary search
+
+1. Matrix Search
+2. Search for a Range
+3. Sorted Insert Position
+
+
+c. Search step simulation
+
+1. Implement Power Function
+
+
+d. Sort modification
+
+1. Rotated Sorted Array Search
+2. Median of Array
+
+
 V. Strings
 
 VI. Bit Manipulation
