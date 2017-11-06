@@ -401,6 +401,41 @@ f. Game solving
 
 XI. Hashing
 
+a. Hash search
+
+1. Colorful Number
+2. Largest Continuous Sequence Zero Sum
+3. 2 Sum
+4. 4 Sum
+5. Valid Sudoku
+6. Diffk II
+
+
+b. Key formation
+
+1. Anagrams
+2. Equal
+3. Copy List
+
+
+c. Hashing two pointer
+
+1. Longest Substring Without Repeat
+2. Window String
+
+
+d. Maths and hashing
+
+1. Fraction
+2. Points on the Straight Line
+
+
+e. Incremental hash
+
+1. Substring Concatenation
+
+
+
 XII. Heaps and Maps
 
 XIII. Trees
