@@ -137,4 +137,5 @@ Linked Lists
 Stacks and Queues
 
 1. Stack with Max**
-2. Queue with Max*
+2. Binary Tree Level Order Traversal**
+3. Queue with Max*
