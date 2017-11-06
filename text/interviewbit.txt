@@ -351,6 +351,54 @@ d. Multiple stack
 
 X. Backtracking
 
+
+Examples
+
+1. Modular Expression
+2. Reverse Link List Recursion
+
+
+a. Subsets
+
+1. Subset
+2. Combinations
+3. Combination Sum
+4. Combination Sum II
+5. Combination Sum II
+
+
+b. Bruteforce builder
+
+1. Letter Phone
+2. Palindrome Partitioning
+3. Generate all Parentheses II
+
+
+c. Pruned builder
+
+1. Palindrome Partitioning
+2. Generate all Parentheses II
+3. NQueens
+4. Sudoku
+
+
+d. Permutations
+
+1. Permutations
+
+
+e. Maths and backtracking
+
+1. Gray Code
+2. Kth Permutation Sequence
+
+
+f. Game solving
+
+1. NQueens
+2. Sudoku
+
+
 XI. Hashing
 
 XII. Heaps and Maps
