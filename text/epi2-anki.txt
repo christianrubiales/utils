@@ -132,3 +132,9 @@ Linked Lists
 2. Get Linked List Cycle Length
 3. Get Linked List Start of Cycle
 4. Mathematical Proof that Get Linked List Start of Cycle Algorithm Works*
+
+
+Stacks and Queues
+
+1. Stack with Max**
+2. Queue with Max*
