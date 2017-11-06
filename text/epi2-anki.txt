@@ -111,7 +111,7 @@ Arrays, Resizable Arrays, Multidimensional Arrays
 7. Flip Square Matrix Diagonally / Transpose Square Matrix
 8. Flip Square Matrix Anti-diagonally
 9. Flip Non-Square Matrix Diagonally / Transpose Non-Square Matrix
-10. Flip Non-Square Matrix Anti-diagonally*
+10. Flip Non-Square Matrix Anti-diagonally
 
 
 Strings
