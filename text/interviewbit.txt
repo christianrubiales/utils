@@ -438,6 +438,24 @@ e. Incremental hash
 
 XII. Heaps and Maps
 
+a. Heap
+
+1. N max pair combinations
+2. Magician and Chocolates
+3. Merge K Sorted Lists
+
+
+b. Heapmap
+
+1. Distinct Numbers in Window
+2. LRU Cache
+
+
+c. Math
+
+1. Ways to form Max Heap
+
+
 XIII. Trees
 
 XIV. Dynamic Programming
