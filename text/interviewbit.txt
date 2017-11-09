@@ -545,6 +545,115 @@ m. Inplace change
 
 XIV. Dynamic Programming
 
+a. Simple array dp
+
+1. Length of Longest Subsequence
+2. Ways to Decode
+3. Stairs
+4. Intersecting Chords in a Circle
+5. Largest area of rectangle with permutations
+
+
+b. 2d string dp
+
+1. Edit Distance
+2. Longest Increasing Subsequence
+3. Repeating Sub-Sequence
+4. Distinct Subsequences
+5. Interleaving Strings
+6. Regular Expression Match
+7. Regular Expression II
+8. Scramble String
+
+
+c. Greedy or dp
+
+1. Tushar's Birthday Bombs
+2. Jump Game Array
+3. Min Jumps Array
+
+
+d. Matrix dp
+
+1. Min Sum Path in Matrix
+2. Dungeon Princess
+3. Min Sum Path in Triangle
+4. Unique Paths in a Grid
+5. Max Rectangle in Binary Matrix
+6. Rod Cutting
+7. Queen Attack
+
+
+e. Dp tricky
+
+1. Longest Arithmetic Progression
+2. N digit numbers with digit sum S
+3. Ways to color a 3xN Board
+4. Shortest common superstring
+5. Kth Manhattan Distance Neighbourhood
+6. Coins in a Line
+7. Evaluate Expression To True
+8. Longest valid Parentheses
+9. Best Time to Buy and Sell Stocks III
+
+
+f. Multiply dp
+
+1. Intersecting Chords in a Circle
+2. Unique Binary Search Trees II
+3. Count Permutations of BST
+
+
+g. Suffix / prefix dp
+
+1. Sub Matrices with sum Zero
+2. Coin Sum Infinite
+3. Best Time to Buy and Sell Stocks I
+4. Max Product Subarray
+5. Arrange II
+
+
+h. Preprocess dp
+
+1. Max Rectangle in Binary Matrix
+
+
+i. Dp optimized backtrack
+
+1. Word Break II
+
+
+j. Knapsack
+
+1. N digit numbers with digit sum S
+2. Tushar's Birthday Party
+3. Flip Array
+4. Equal Average Partition
+
+
+k. Tree dp
+
+1. Max Sum Path in Binary Tree
+
+
+l. Breaking words
+
+1. Word Break
+2. Palindrome Partitioning II
+3. Scramble String
+
+
+m. Adhoc
+
+1. Best Time to Buy and Sell Stocks II
+2. Largest area of rectangle with permutations
+
+
+n. Derived dp
+
+1. Max Sum Without Adjacent Elements
+
+
 XV. Greedy
 
 XVI. Graphs
