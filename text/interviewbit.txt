@@ -656,4 +656,36 @@ n. Derived dp
 
 XV. Greedy
 
+
+a. Bucket 1
+
+1. Distribute Candy
+2. Assign Mice to Holes
+
+
+b. Bucket 2
+
+1. Gas Station
+
+
+c. Bucket 3
+
+1. Majority Element
+
+
+d. Bucket 4
+
+1. Seats
+
+
+e. Bucket 5
+
+1. Highest Product
+
+
+f. Bucket 6
+
+1. Bulbs
+
+
 XVI. Graphs
