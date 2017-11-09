@@ -689,3 +689,50 @@ f. Bucket 6
 
 
 XVI. Graphs
+
+a. Bfs
+
+1. Smallest sequence with given Primes
+2. Valid Path
+3. Level Order
+4. Smallest Multiple With 0 and 1
+
+
+b. Graph adhoc
+
+1. Convert Sorted List to Binary Search Tree
+
+
+c. Shortest path
+
+1. Sum Of Fibonacci Numbers
+2. Knight On Chess Board
+3. Word Ladder I
+4. Word Ladder II
+
+
+d. Graph connectivity
+
+1. Commutable Islands
+2. Possibility of finishing all courses given pre-requisites
+3. Valid Path
+4. Black Shapes
+5. Capture Regions on Board
+
+
+e. Graph hashing
+
+1. Clone Graph
+
+
+f. Depth first search
+
+1. Largest Distance between nodes of a Tree
+
+
+g. Graph traversal
+
+1. Level Order
+2. Stepping Numbers
+3. Capture Regions on Board
+4. Word Search Board
