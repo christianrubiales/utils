@@ -458,6 +458,91 @@ c. Math
 
 XIII. Trees
 
+Examples
+
+1. Next Greater Number BST
+2. Valid Binary Search Tree
+
+a. Traversal
+
+1. Vertical Order traversal of Binary Tree	
+2. Inorder Traversal
+3. Postorder Traversal
+4. Preorder Traversal
+
+
+b. Level order
+
+1. ZigZag Level Order Traversal BT
+2. Populate Next Right Pointers Tree
+
+
+c. Tries
+
+1. Hotel Reviews
+
+
+d. Root to leaf
+
+1. Path Sum
+2. Root to Leaf Paths With Sum
+3. Max Depth of Binary Tree
+4. Min Depth of Binary Tree
+5. Sum Root to Leaf Numbers
+
+
+e. Simple tree ops
+
+1. Balanced Binary Tree
+
+
+f. 2 trees
+
+1. Identical Binary Trees
+2. Symmetric Binary Tree
+
+
+g. Trie
+
+1. Shortest Unique Prefix
+
+
+h. Tree construction
+
+1. Inorder Traversal of Cartesian Tree
+2. Sorted Array To Balanced BST
+3. Construct Binary Tree From Inorder And Postorder
+4. Construct Binary Tree From Inorder And Preorder
+
+
+i. Tree search
+
+1. Least Common Ancestor
+
+
+j. Linkedlist tree
+
+1. Flatten Binary Tree to Linked List
+
+
+k. Bst traversal
+
+1. Kth Smallest Element In Tree
+2. 2-Sum Binary Tree
+3. BST Iterator
+4. Recover Binary Search Tree
+
+
+l. Interval tree
+
+1. Order of People Heights
+
+
+m. Inplace change
+
+1. Invert the Binary Tree
+
+
 XIV. Dynamic Programming
 
 XV. Greedy
