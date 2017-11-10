@@ -139,3 +139,23 @@ Stacks and Queues
 1. Stack with Max**
 2. Binary Tree Level Order Traversal**
 3. Queue with Max*
+
+
+Binary Trees
+
+1. Is binary tree height-balanced**
+2. Height Of Binary Tree**
+
+
+Heaps
+
+1. Merge sorted files**
+2. K Longest Strings From Stream**
+
+
+Searching
+
+1. Search sorted array for first occurence of k**
+2. Find Smallest Difference In Integer Array**
+3. First Number Greater Than K In Sorted Array**
+4. First Number Less Than K In Sorted Array*
