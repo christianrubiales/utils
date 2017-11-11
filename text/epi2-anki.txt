@@ -171,3 +171,8 @@ Sorting
 1. Intersection of two sorted arrays**
 2. Render calendar**
 3. Maximum Non Overlapping Events**
+
+
+Binary Search Trees
+
+1. Is binary tree BST*
