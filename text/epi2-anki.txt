@@ -159,3 +159,15 @@ Searching
 2. Find Smallest Difference In Integer Array**
 3. First Number Greater Than K In Sorted Array**
 4. First Number Less Than K In Sorted Array*
+
+
+Hash Tables
+
+1. Is Anonymous Letter Constructible**
+
+
+Sorting
+
+1. Intersection of two sorted arrays**
+2. Render calendar**
+3. Maximum Non Overlapping Events**
