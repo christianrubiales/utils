@@ -176,3 +176,24 @@ Sorting
 Binary Search Trees
 
 1. Is binary tree BST*
+
+
+Recursion
+
+1. Generate Power Set**
+
+
+Dynamic Programming
+
+1. Ways to Traverse 2D array**
+2. Ways to Traverse 2D array - Closed Form**
+3. Fibonacci Quadratic**
+4. Fibonacci Linear Inefficient Space**
+5. Fibonacci Linear Efficient Space**
+
+
+Greedy Algorithms and Invariants
+
+1. 2SUM**
+2. Minimum Coin Change - Greedy**
+3. 3SUM Non-Distinct**
