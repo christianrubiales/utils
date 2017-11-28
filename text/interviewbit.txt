@@ -75,12 +75,17 @@ h. Missing / Repeated Number
 
 II. Math
 
-Walkthroughs
+Primers
+1. MATH_BUG01
+2. MATH_BUG02
+
+
+Examples
 
 1. All Factors**
 2. Verify Prime**
 3. Prime Numbers**
-4. Binary Representation
+4. Binary Representation**
 
 
 a. Adhoc
