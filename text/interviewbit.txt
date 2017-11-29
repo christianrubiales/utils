@@ -121,7 +121,7 @@ e. Base conversion
 f. Digit op
 
 1. Palindrome Integer
-2. Reverse integer
+2. Reverse integer**
 
 
 g. Number theory
