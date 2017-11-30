@@ -133,6 +133,11 @@ g. Number theory
 5. Sorted Permutation Rank with Repeats
 
 
+Checkpoint 2
+
+1. Pretty Print Matrix**
+
+
 IV. Binary Search
 
 Examples
@@ -275,6 +280,12 @@ e. Tricks
 1. Max Continuous Series of 1s
 2. Array 3 Pointers
 3. Container With Most Water
+
+
+Checkpoint 3
+
+1. Kth Smallest Element in the Array
+2. NUMRANGE*
 
 
 VIII. Linked Lists
