@@ -374,6 +374,12 @@ d. Multiple stack
 1. Min Stack
 
 
+Checkpoint 4
+
+1. Linked List Half Subtraction
+2. Next Greater Element**
+
+
 X. Backtracking
 
 
@@ -459,6 +465,11 @@ e. Incremental hash
 
 1. Substring Concatenation
 
+
+Checkpoint 5
+
+1. All Unique Permutations
+2. Longest Consecutive Sequence**
 
 
 XII. Heaps and Maps
@@ -566,6 +577,12 @@ l. Interval tree
 m. Inplace change
 
 1. Invert the Binary Tree
+
+
+Checkpont 6
+
+1. Number of Inversions in an Array*
+2. Next Pointer Binary Tree**
 
 
 XIV. Dynamic Programming
@@ -711,6 +728,11 @@ e. Bucket 5
 f. Bucket 6
 
 1. Bulbs
+
+
+Chcekpoint 7
+
+1. Unique Binary Search Trees**
 
 
 XVI. Graphs
