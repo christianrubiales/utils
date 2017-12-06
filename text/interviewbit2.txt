@@ -15,4 +15,4 @@
 15. Greedy - 0/6
 16. Graphs - 0/7
 
-TOTAL - 16/102
+TOTAL - 17/102
