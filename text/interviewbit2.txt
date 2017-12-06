@@ -9,7 +9,7 @@
 9. Stacks and Queues - 0/4
 10. Backtracking - 0/6
 11. Hashing - 0/5
-12. Heaps and Maps - 1/3
+12. Heaps and Maps - 2/3
 13. Trees - 0/12
 14. Dynamic Programming - 0/13
 15. Greedy - 0/6
