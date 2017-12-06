@@ -104,7 +104,7 @@ b. Array dp
 
 c. Number encoding
 
-1. Rearrange Array
+1. Rearrange Array**
 
 
 d. Combinatorics
@@ -229,12 +229,12 @@ VI. Bit Manipulation
 
 a. Bucketing
 
-1. Min XOR value
+1. Min XOR value**
 
 
 b. Bit play
 
-1. Number of 1 Bits
+1. Number of 1 Bits**
 2. Reverse Bits
 3. Divide Integers
 4. Different Bits Sum Pairwise
@@ -242,7 +242,7 @@ b. Bit play
 
 c. Bit array
 
-1. Single Number
+1. Single Number**
 2. Single Number II
 
 
@@ -476,20 +476,20 @@ XII. Heaps and Maps
 
 a. Heap
 
-1. N max pair combinations
+1. N max pair combinations*
 2. Magician and Chocolates
 3. Merge K Sorted Lists
 
 
 b. Heapmap
 
-1. Distinct Numbers in Window
+1. Distinct Numbers in Window**
 2. LRU Cache
 
 
 c. Math
 
-1. Ways to form Max Heap
+1. Ways to form Max Heap*
 
 
 XIII. Trees
