@@ -436,7 +436,7 @@ a. Hash search
 
 1. Colorful Number
 2. Largest Continuous Sequence Zero Sum
-3. 2 Sum
+3. 2 Sum**
 4. 4 Sum
 5. Valid Sudoku
 6. Diffk II
@@ -444,14 +444,14 @@ a. Hash search
 
 b. Key formation
 
-1. Anagrams
+1. Anagrams**
 2. Equal
 3. Copy List
 
 
 c. Hashing two pointer
 
-1. Longest Substring Without Repeat
+1. Longest Substring Without Repeat**
 2. Window String
 
 
