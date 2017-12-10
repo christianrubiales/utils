@@ -8,7 +8,7 @@
 8. Linked Lists - 0/6
 9. Stacks and Queues - 3/4
 10. Backtracking - 0/6
-11. Hashing - 1/5
+11. Hashing - 2/5
 12. Heaps and Maps - 3/3
 13. Trees - 0/12
 14. Dynamic Programming - 0/13
