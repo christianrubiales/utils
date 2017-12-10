@@ -320,7 +320,7 @@ b. Pointer move
 c. List math
 
 1. Add Two Numbers as Lists
-2. List Cycle
+2. List Cycle**
 
 
 d. List sort
@@ -338,7 +338,7 @@ e. List trick
 
 f. List cycle
 
-1. List Cycle
+1. List Cycle**
 
 
 IX. Stacks and Queues
