@@ -325,7 +325,7 @@ c. List math
 
 d. List sort
 
-1. Partition List
+1. Partition List**
 2. Insertion Sort List
 3. Sort List
 
