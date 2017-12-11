@@ -352,7 +352,7 @@ Examples
 
 a. Stack simple
 
-1. Simplify Directory Path
+1. Simplify Directory Path**
 2. Redundant Braces
 
 
