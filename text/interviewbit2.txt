@@ -5,7 +5,7 @@
 5. Strings - 0/8
 6. Bit Manipulation - 3/3
 7. Two Pointers - 0/5
-8. Linked Lists - 3/6
+8. Linked Lists - 6/6
 9. Stacks and Queues - 4/4
 10. Backtracking - 0/6
 11. Hashing - 3/5
@@ -15,4 +15,4 @@
 15. Greedy - 0/6
 16. Graphs - 0/7
 
-TOTAL - 28/102
+TOTAL - 31/102
