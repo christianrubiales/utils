@@ -457,7 +457,7 @@ c. Hashing two pointer
 
 d. Maths and hashing
 
-1. Fraction
+1. Fraction**
 2. Points on the Straight Line
 
 
