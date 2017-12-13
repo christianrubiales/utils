@@ -2,7 +2,7 @@
 2. Arrays - 0/8
 3. Math - 7/7
 4. Binary Search - 0/4
-5. Strings - 0/8
+5. Strings - 1/8
 6. Bit Manipulation - 3/3
 7. Two Pointers - 0/5
 8. Linked Lists - 6/6
@@ -15,4 +15,4 @@
 15. Greedy - 0/6
 16. Graphs - 0/7
 
-TOTAL - 32/102
+TOTAL - 33/102
