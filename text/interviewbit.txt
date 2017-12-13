@@ -463,7 +463,7 @@ d. Maths and hashing
 
 e. Incremental hash
 
-1. Substring Concatenation
+1. Substring Concatenation**
 
 
 Checkpoint 5
