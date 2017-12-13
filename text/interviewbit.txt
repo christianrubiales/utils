@@ -179,7 +179,7 @@ a. String simulation
 
 1. Palindrome String
 2. Longest Common Prefix
-3. Count And Say
+3. Count And Say**
 
 
 b. String tricks
