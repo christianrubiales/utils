@@ -6,7 +6,7 @@
 11. Hashing - 5/5
 12. Heaps and Maps - 3/3
 
-5. Strings - 2/8
+5. Strings - 3/8
 
 2. Arrays - 0/8
 4. Binary Search - 0/4
