@@ -184,19 +184,19 @@ a. String simulation
 
 b. String tricks
 
-1. Minimum Characters required to make a String Palindromic
+1. Minimum Characters required to make a String Palindromic**
 2. Longest Palindromic Substring
 
 
 c. String search
 
-1. Minimum Characters required to make a String Palindromic
+1. Minimum Characters required to make a String Palindromic**
 2. Implement StrStr
 
 
 d. String parsing
 
-1. Minimum Characters required to make a String Palindromic
+1. Minimum Characters required to make a String Palindromic**
 2. Compare Version Numbers
 3. Atoi
 4. Valid Number
