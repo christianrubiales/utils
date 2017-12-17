@@ -7,7 +7,7 @@
 12. Heaps and Maps - 3/3
 5. Strings - 7/7
 
-2. Arrays - 4/8
+2. Arrays - 7/8
 
 4. Binary Search - 0/4
 7. Two Pointers - 0/5
