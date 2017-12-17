@@ -25,7 +25,7 @@ c. Bucketing
 
 1. Noble Integer
 2. Triplets with Sum between given range
-3. Largest Number
+3. Largest Number**
 4. Wave Array
 5. Hotel Bookings Possible
 6. Max Distance
@@ -36,7 +36,7 @@ c. Bucketing
 
 d. Arrangement
 
-1. Largest Number
+1. Largest Number**
 2. Rotate Matrix
 3. Next Permutation
 4. Find Permutation
@@ -52,7 +52,7 @@ f. Bucketing or Sorting
 
 1. Hotel Bookings Possible
 2. Wave Array
-3. Largest Number
+3. Largest Number**
 4. Max Distance
 5. Maximum Unsorted Subarray
 6. Find Duplicate in Array
