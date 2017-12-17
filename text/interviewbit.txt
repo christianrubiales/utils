@@ -45,7 +45,7 @@ d. Arrangement
 e. Value Ranges
 
 1. Merge Intervals
-2. Merge Overlapping Intervals
+2. Merge Overlapping Intervals**
 
 
 f. Bucketing or Sorting
