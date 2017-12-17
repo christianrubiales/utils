@@ -7,7 +7,7 @@
 12. Heaps and Maps - 3/3
 5. Strings - 7/7
 
-2. Arrays - 3/8
+2. Arrays - 4/8
 
 4. Binary Search - 0/4
 7. Two Pointers - 0/5
@@ -17,4 +17,4 @@
 15. Greedy - 0/6
 16. Graphs - 0/7
 
-TOTAL - 42/101
+TOTAL - 43/101
