@@ -8,7 +8,6 @@
 11. Hashing - 5/5
 12. Heaps and Maps - 3/3
 
-
 4. Binary Search - 0/4
 
 7. Two Pointers - 0/5
