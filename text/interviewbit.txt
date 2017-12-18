@@ -149,7 +149,7 @@ Examples
 a. Search answer
 
 1. Matrix Median
-2. Square Root of Integer
+2. Square Root of Integer**
 3. Painter's Partition Problem
 4. Allocate Books
 
