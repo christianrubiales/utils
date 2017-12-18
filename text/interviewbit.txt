@@ -158,7 +158,7 @@ b. Simple binary search
 
 1. Matrix Search
 2. Search for a Range
-3. Sorted Insert Position
+3. Sorted Insert Position**
 
 
 c. Search step simulation
