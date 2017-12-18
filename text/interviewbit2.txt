@@ -1,15 +1,16 @@
 1. Time Complexity - 5/5
+2. Arrays - 8/8
 3. Math - 7/7
+5. Strings - 7/7
 6. Bit Manipulation - 3/3
 8. Linked Lists - 6/6
 9. Stacks and Queues - 4/4
 11. Hashing - 5/5
 12. Heaps and Maps - 3/3
-5. Strings - 7/7
 
-2. Arrays - 7/8
 
 4. Binary Search - 0/4
+
 7. Two Pointers - 0/5
 10. Backtracking - 0/6
 13. Trees - 0/12
@@ -17,4 +18,4 @@
 15. Greedy - 0/6
 16. Graphs - 0/7
 
-TOTAL - 43/101
+TOTAL - 44/101
