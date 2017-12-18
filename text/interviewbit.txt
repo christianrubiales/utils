@@ -70,7 +70,7 @@ h. Missing / Repeated Number
 1. First Missing Integer
 2. Repeat and Missing Number Array
 3. Find Duplicate in Array
-4. N/3 Repeat Number
+4. N/3 Repeat Number**
 
 
 II. Math
