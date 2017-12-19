@@ -8,7 +8,7 @@
 11. Hashing - 5/5
 12. Heaps and Maps - 3/3
 
-4. Binary Search - 2/4
+4. Binary Search - 3/4
 
 7. Two Pointers - 0/5
 10. Backtracking - 0/6
@@ -17,4 +17,4 @@
 15. Greedy - 0/6
 16. Graphs - 0/7
 
-TOTAL - 46/101
+TOTAL - 47/101
