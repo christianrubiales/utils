@@ -168,7 +168,7 @@ c. Search step simulation
 
 d. Sort modification
 
-1. Rotated Sorted Array Search
+1. Rotated Sorted Array Search**
 2. Median of Array
 
 
