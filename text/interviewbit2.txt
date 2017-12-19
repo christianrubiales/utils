@@ -9,7 +9,7 @@
 11. Hashing - 5/5
 12. Heaps and Maps - 3/3
 
-7. Two Pointers - 0/5
+7. Two Pointers - 1/5
 
 10. Backtracking - 0/6
 13. Trees - 0/12
@@ -17,4 +17,4 @@
 15. Greedy - 0/6
 16. Graphs - 0/7
 
-TOTAL - 48/101
+TOTAL - 49/101
