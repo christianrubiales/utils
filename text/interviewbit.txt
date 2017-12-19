@@ -163,7 +163,7 @@ b. Simple binary search
 
 c. Search step simulation
 
-1. Implement Power Function
+1. Implement Power Function**
 
 
 d. Sort modification
