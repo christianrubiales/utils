@@ -415,7 +415,7 @@ c. Pruned builder
 
 d. Permutations
 
-1. Permutations
+1. Permutations**
 
 
 e. Maths and backtracking
