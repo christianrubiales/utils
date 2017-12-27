@@ -391,7 +391,7 @@ Examples
 
 a. Subsets
 
-1. Subset
+1. Subset**
 2. Combinations
 3. Combination Sum
 4. Combination Sum II
@@ -409,7 +409,7 @@ c. Pruned builder
 
 1. Palindrome Partitioning
 2. Generate all Parentheses II
-3. NQueens
+3. NQueens**
 4. Sudoku
 
 
@@ -421,13 +421,13 @@ d. Permutations
 e. Maths and backtracking
 
 1. Gray Code
-2. Kth Permutation Sequence
+2. Kth Permutation Sequence**
 
 
 f. Game solving
 
 1. NQueens
-2. Sudoku
+2. Sudoku**
 
 
 XI. Hashing
