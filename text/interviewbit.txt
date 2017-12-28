@@ -420,7 +420,7 @@ d. Permutations
 
 e. Maths and backtracking
 
-1. Gray Code
+1. Gray Code**
 2. Kth Permutation Sequence**
 
 
