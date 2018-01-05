@@ -707,7 +707,7 @@ a. Bucket 1
 
 b. Bucket 2
 
-1. Gas Station
+1. Gas Station**
 
 
 c. Bucket 3
@@ -727,7 +727,7 @@ e. Bucket 5
 
 f. Bucket 6
 
-1. Bulbs
+1. Bulbs**
 
 
 Chcekpoint 7
