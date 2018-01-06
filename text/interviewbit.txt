@@ -722,7 +722,7 @@ d. Bucket 4
 
 e. Bucket 5
 
-1. Highest Product
+1. Highest Product**
 
 
 f. Bucket 6
