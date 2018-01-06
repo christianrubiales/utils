@@ -11,10 +11,10 @@
 11. Hashing - 5/5
 12. Heaps and Maps - 3/3
 
-15. Greedy - 4/6
+15. Greedy - 5/6
 
 13. Trees - 0/12
 14. Dynamic Programming - 0/13
 16. Graphs - 0/7
 
-TOTAL - 67/101
+TOTAL - 68/101
