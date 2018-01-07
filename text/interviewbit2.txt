@@ -1,3 +1,5 @@
+TOPIC COVERAGE
+
 1. Time Complexity - 5/5
 2. Arrays - 8/8
 3. Math - 7/7
@@ -10,11 +12,11 @@
 10. Backtracking - 6/6
 11. Hashing - 5/5
 12. Heaps and Maps - 3/3
-
-15. Greedy - 5/6
+15. Greedy - 6/6
 
 13. Trees - 0/12
+
 14. Dynamic Programming - 0/13
 16. Graphs - 0/7
 
-TOTAL - 68/101
+TOPIC COVERAGE TOTAL - 69/101
