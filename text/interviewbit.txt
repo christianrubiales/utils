@@ -391,7 +391,7 @@ Examples
 
 a. Subsets
 
-1. Subset**
+1. Subset√
 2. Combinations
 3. Combination Sum
 4. Combination Sum II
@@ -420,7 +420,7 @@ d. Permutations
 
 e. Maths and backtracking
 
-1. Gray Code**
+1. Gray Code√
 2. Kth Permutation Sequence**
 
 
@@ -702,7 +702,7 @@ XV. Greedy
 a. Bucket 1
 
 1. Distribute Candy
-2. Assign Mice to Holes
+2. Assign Mice to Holes√
 
 
 b. Bucket 2
@@ -712,7 +712,7 @@ b. Bucket 2
 
 c. Bucket 3
 
-1. Majority Element
+1. Majority Element√
 
 
 d. Bucket 4
