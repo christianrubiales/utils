@@ -14,9 +14,9 @@ TOPIC COVERAGE
 12. Heaps and Maps - 3/3
 15. Greedy - 6/6
 
-13. Trees - 0/12
+13. Trees - 1/12
 
 14. Dynamic Programming - 0/13
 16. Graphs - 0/7
 
-TOPIC COVERAGE TOTAL - 69/101
+TOPIC COVERAGE TOTAL - 70/101
