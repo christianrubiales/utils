@@ -576,7 +576,7 @@ l. Interval tree
 
 m. Inplace change
 
-1. Invert the Binary Tree
+1. Invert the Binary Tree**
 
 
 Checkpont 6
