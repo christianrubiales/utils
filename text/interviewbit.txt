@@ -17,7 +17,7 @@ b. Simulation Array
 1. Max Non Negative SubArray
 2. Spiral Order Matrix II
 3. Pascal Triangle
-4. Kth Row of Pascal's Triangle**
+4. Kth Row of Pascal's Triangle√
 5. Antidiagonals
 
 
