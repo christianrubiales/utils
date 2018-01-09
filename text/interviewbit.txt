@@ -502,7 +502,7 @@ Examples
 a. Traversal
 
 1. Vertical Order traversal of Binary Tree	
-2. Inorder Traversal
+2. Inorder Traversal√
 3. Postorder Traversal
 4. Preorder Traversal
 
@@ -576,7 +576,7 @@ l. Interval tree
 
 m. Inplace change
 
-1. Invert the Binary Tree**
+1. Invert the Binary Tree√
 
 
 Checkpont 6
