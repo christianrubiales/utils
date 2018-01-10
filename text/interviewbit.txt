@@ -522,7 +522,7 @@ d. Root to leaf
 
 1. Path Sum
 2. Root to Leaf Paths With Sum
-3. Max Depth of Binary Tree
+3. Max Depth of Binary Tree√
 4. Min Depth of Binary Tree
 5. Sum Root to Leaf Numbers
 
