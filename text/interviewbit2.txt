@@ -14,12 +14,12 @@ COVERAGE
 12. Heaps and Maps - 3/3
 15. Greedy - 6/6
 
-13. Trees - 2/12
+13. Trees - 3/12
 
 14. Dynamic Programming - 0/13
 16. Graphs - 0/7
 
-COVERAGE TOTAL - 71/101
+COVERAGE TOTAL - 72/101
 
 
 
@@ -37,9 +37,9 @@ STRENGTH
 10. Backtracking - 6/19
 11. Hashing - 5/14
 12. Heaps and Maps - 3/6
-13. Trees - 2/29
+13. Trees - 3/29
 14. Dynamic Programming - 0/53
 15. Greedy - 6/7
 16. Graphs - 0/20
 
-STRENGTH TOTAL - 91/316
+STRENGTH TOTAL - 92/316
