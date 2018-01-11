@@ -534,7 +534,7 @@ e. Simple tree ops
 
 f. 2 trees
 
-1. Identical Binary Trees
+1. Identical Binary Trees√
 2. Symmetric Binary Tree
 
 
