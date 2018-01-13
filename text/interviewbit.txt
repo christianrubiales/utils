@@ -563,7 +563,7 @@ j. Linkedlist tree
 
 k. Bst traversal
 
-1. Kth Smallest Element In Tree
+1. Kth Smallest Element In Tree**
 2. 2-Sum Binary Tree
 3. BST Iterator
 4. Recover Binary Search Tree
