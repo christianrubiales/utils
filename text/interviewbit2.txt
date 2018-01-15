@@ -14,12 +14,12 @@ COVERAGE
 12. Heaps and Maps - 3/3
 15. Greedy - 6/6
 
-13. Trees - 6/12
+13. Trees - 6/13
 
 14. Dynamic Programming - 0/13
 16. Graphs - 0/7
 
-COVERAGE TOTAL - 75/101
+COVERAGE TOTAL - 75/102
 
 
 
