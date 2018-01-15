@@ -546,7 +546,7 @@ g. Trie
 h. Tree construction
 
 1. Inorder Traversal of Cartesian Tree
-2. Sorted Array To Balanced BST
+2. Sorted Array To Balanced BST√
 3. Construct Binary Tree From Inorder And Postorder
 4. Construct Binary Tree From Inorder And Preorder
 
