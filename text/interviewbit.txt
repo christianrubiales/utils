@@ -553,7 +553,7 @@ h. Tree construction
 
 i. Tree search
 
-1. Least Common Ancestor
+1. Least Common Ancestor**
 
 
 j. Linkedlist tree
