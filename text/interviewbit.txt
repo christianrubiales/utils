@@ -510,7 +510,7 @@ a. Traversal
 b. Level order
 
 1. ZigZag Level Order Traversal BT
-2. Populate Next Right Pointers Tree
+2. Populate Next Right Pointers Tree**
 
 
 c. Tries
