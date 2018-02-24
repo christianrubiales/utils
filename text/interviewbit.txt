@@ -206,7 +206,7 @@ d. String parsing
 e. Words
 
 1. Length of Last Word**
-2. Reverse the String
+2. Reverse the String√
 
 
 f. String math
