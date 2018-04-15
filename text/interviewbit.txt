@@ -650,7 +650,7 @@ g. Suffix / prefix dp
 
 1. Sub Matrices with sum Zero
 2. Coin Sum Infinite
-3. Best Time to Buy and Sell Stocks I
+3. Best Time to Buy and Sell Stocks I√
 4. Max Product Subarray
 5. Arrange II
 
