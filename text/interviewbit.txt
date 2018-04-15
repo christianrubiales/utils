@@ -687,7 +687,7 @@ l. Breaking words
 
 m. Adhoc
 
-1. Best Time to Buy and Sell Stocks II
+1. Best Time to Buy and Sell Stocks II√
 2. Largest area of rectangle with permutations
 
 
