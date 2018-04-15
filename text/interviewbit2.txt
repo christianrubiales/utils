@@ -16,10 +16,10 @@ COVERAGE
 
 13. Trees - 9/13
 
-14. Dynamic Programming - 1/13
+14. Dynamic Programming - 2/13
 16. Graphs - 0/7
 
-COVERAGE TOTAL - 79/102
+COVERAGE TOTAL - 80/102
 
 
 
@@ -38,8 +38,8 @@ STRENGTH
 11. Hashing - 5/14
 12. Heaps and Maps - 3/6
 13. Trees - 9/29
-14. Dynamic Programming - 1/53
+14. Dynamic Programming - 2/53
 15. Greedy - 6/7
 16. Graphs - 0/20
 
-STRENGTH TOTAL - 100/316
+STRENGTH TOTAL - 101/316
